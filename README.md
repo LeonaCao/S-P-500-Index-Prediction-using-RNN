@@ -1,4 +1,4 @@
-# S-P-500-Index-Prediction-using-RNN
+# SP-500-Index-Prediction-using-RNN
 
 This is a course project I completed with my teammates to predict S&P 500 index in time series using recurrent neural network.
 
